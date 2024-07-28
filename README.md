@@ -2,7 +2,7 @@
 
 Built with the Next.js 13.5 App Router, tRPC, TypeScript, Prisma & Tailwind
 
-![Project Image](https://github.com/neerajkumar4/Document-query-app/blob/master/public/thumbnail.png)
+![Project Image](https://github.com/neerajkumar4/Document-query-app/blob/main/public/thumbnail.png)
 
 ## Features
 
